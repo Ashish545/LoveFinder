@@ -1,0 +1,30 @@
+.img{
+
+    height: 200px
+
+
+}
+
+.getText{
+    display: flex;
+    justify-content: space-around;
+    height: 40px;
+    
+  
+}
+input{
+
+    background-color: pink;
+    border: 2px solid red;
+    color:black;
+    font-weight: bold;
+}
+
+.button #btn{
+    margin-top: 30px;
+    height: 40px;
+    background-color: rgb(19, 109, 194);
+    border: 2px solid red;
+    font-size:large;
+    font-weight: bold;
+}
